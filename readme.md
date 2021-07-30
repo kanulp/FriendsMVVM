@@ -3,8 +3,8 @@
 This app demonstrate how to use MVVM archtecture in android with following libraries.
 
 Libraries : 
-* Hild
-* Coroutine
+* Hilt-Dagger
+* Coroutines
 * ViewModel
 * LiveData
 * Room
@@ -13,5 +13,5 @@ Libraries :
 
 #### Screenshots : 
 
-<img src="https://raw.githubusercontent.com/kanulp/FriendsMVVM/main/screenshots/1.png" width="800" height="600"  title="Screenshot 1">
+<img src="https://raw.githubusercontent.com/kanulp/FriendsMVVM/main/screenshots/1.png" width="600" title="Screenshot 1">
 <br />
